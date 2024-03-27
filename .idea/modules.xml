@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/easy_validation.iml" filepath="$PROJECT_DIR$/.idea/easy_validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django_easy_validation/.idea/easy_validation.iml" filepath="$PROJECT_DIR$/../django_easy_validation/.idea/easy_validation.iml" />
     </modules>
   </component>
 </project>
