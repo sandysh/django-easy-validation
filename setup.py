@@ -7,7 +7,7 @@ long_description = (
 
 setup(
     name='django-easy-validation',
-    version='0.1',
+    version='0.2',
     description='Easy Validation for Django based projects especially for Ajax based request.',
     long_description_content_type='text/markdown',
     long_description=long_description,
