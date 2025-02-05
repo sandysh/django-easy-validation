@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+django_easy_validation/__init__.py
+django_easy_validation/utils.py
+django_easy_validation/validator.py
+django_easy_validation.egg-info/PKG-INFO
+django_easy_validation.egg-info/SOURCES.txt
+django_easy_validation.egg-info/dependency_links.txt
+django_easy_validation.egg-info/requires.txt
+django_easy_validation.egg-info/top_level.txt
