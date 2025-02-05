@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='django-easy-validation',
-    version='0.0.1',
+    version='1.0.0',
     description='Easy AJAX validation for Django projects, inspired by Laravel approach.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
